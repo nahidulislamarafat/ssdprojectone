@@ -1,0 +1,80 @@
+body{
+
+	margin: 0;
+}
+
+div{
+
+width: 1000px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+text-align: center;
+
+margin-top: 100px;
+}
+
+h1{}
+
+span{}
+p{}
+img{
+
+max-width: 100%;
+
+}
+
+body{
+
+	margin: 0;
+}
+
+div{
+
+width: 1000px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+text-align: center;
+
+margin-top: 100px;
+
+box-shadow: 0 0 10px #504f4f1a;
+
+padding: 50px;
+}
+
+h1{
+    font-size: 70px;
+    color: purple;
+    background-color: #0083ff0a;
+    text-shadow: 4px 4px 10px #06a00661;
+}
+
+.firstName{
+	color: orange;
+}
+
+.middleName{
+	color: purple;
+}
+
+.lastName{
+
+	color: red
+}
+
+p{
+    font-size: 30px;
+    line-height: 1.3;
+    color: #565454;
+}
+img{
+
+max-width: 100%;
+
+}
